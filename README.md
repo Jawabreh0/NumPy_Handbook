@@ -10,7 +10,7 @@
 4. Multi-dimensional Numpy arrays	
 5. Working with CSV data files	
 6. Arithmetic operations, broadcasting and comparison	
-  - 6.1 Array Broadcasting	
-  - 6.2 Array Comparison	
-  - 6.3 Array indexing and slicing
+  * 6.1 Array Broadcasting	
+  * 6.2 Array Comparison	
+  * 6.3 Array indexing and slicing
 7. More NumPy Functions	
